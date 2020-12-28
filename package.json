@@ -1,0 +1,14 @@
+{
+  "name": "06-scroll-animation",
+  "version": "1.0.0",
+  "description": "https://1-expanding-cards.vercel.app/",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vercel": "^21.0.1"
+  }
+}
